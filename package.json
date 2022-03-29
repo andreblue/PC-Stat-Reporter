@@ -1,0 +1,26 @@
+{
+  "name": "nodepcstats",
+  "version": "0.0.1",
+  "description": "A simple process to grab some basic stats about the PC.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreblue/PC-Stat-Reporter.git"
+  },
+  "keywords": [
+    "pcstat",
+    "stats",
+    "gpu",
+    "cpu",
+    "utility"
+  ],
+  "author": "andreblue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreblue/PC-Stat-Reporter/issues"
+  },
+  "homepage": "https://github.com/andreblue/PC-Stat-Reporter#readme"
+}
